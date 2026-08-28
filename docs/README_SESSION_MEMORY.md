@@ -51,3 +51,21 @@ When a new item is validated in a session, prepare it for archival in the approp
 
 - Create a separate preserved raw-text file for LIVRE_LIANA_001 after confirming the destination and exact text.
 - Build the master route map for the Avant de lire episode sequence before drafting episode 1 for publication.
+
+## Administrative Tracking (minimal trace — no medical detail)
+
+### Kereis Dossier n°4836689 — Sebastien Delelee
+
+- Status: In progress. Kereis requested additional supporting documents on 23/07/2026 to complete review of an incapacity-to-work claim opened 27/06/2025; coverage decision ("prise en charge") pending. As of 28/08/2026, Seb reports the requested documents were sent back; the newest Kereis reply was not yet retrievable from connected storage.
+- Purpose: Insurance coverage of loan installments during work incapacity.
+- Location: Full correspondence and forms — Google Drive folder "kereis ass crédit"; latest status note `Suivi_Dossier_Kereis_2026-08-28.md` in the same folder.
+- Date: Last update 28/08/2026.
+- Next action: Retrieve/file the most recent Kereis letter once available; confirm bank's lender attestation is completed and forwarded back to Kereis.
+
+### Bank lender attestation (Caisse d'Épargne, Agence Sète Métairies)
+
+- Status: Attestation sent by Seb to his bank contact; confirmed received on 28/08/2026 by Laetitia Moraldi Moulet (Gestionnaire de Clientèle Patrimoniale), forwarded to the bank's crédit department for processing.
+- Purpose: Complete the lender-side attestation required by Kereis for the loan-protection claim above.
+- Location: Google Drive folder "kereis ass crédit" (attestation forms); status note as above.
+- Date: 28/08/2026.
+- Next action: Await the completed attestation from the bank's crédit department, then relay it to Kereis dossier n°4836689 if not already covered.
