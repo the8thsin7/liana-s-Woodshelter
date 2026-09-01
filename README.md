@@ -1,2 +1,32 @@
-# liana-s-Woodshelter
-Liana's Woddshelter
+# Liana's Woodshelter
+
+## Suivi production — Finances Seb
+
+### Banque de France — dossier de surendettement
+
+- Le 01/09/2026, une réponse a été envoyée à la Banque de France avec les documents Kereis, les offres de prêt et les accords/cautions d’assurance disponibles.
+- La transmission est partielle : les pièces complémentaires demandées restent à traiter lors d’une prochaine session.
+
+### Pièces à reprendre
+
+- Tableaux d’amortissement complets et lisibles des deux prêts Caisse d’Épargne : prêt principal n° 0000000005337479 (276 352,12 €) et PTZ n° 0000000005337478 (108 000 €).
+- Justificatifs des dettes sociales et fiscales.
+- Justificatif de la dette prud’homale.
+- Réponse factuelle sur une éventuelle caution personnelle liée à la SAS Rocalis et, le cas échéant, justificatifs des poursuites personnelles.
+- Montant net reçu après liquidation de la SCI / vente des locaux Rocalis, date et utilisation des fonds.
+- Justificatifs et précisions sur les 20 000 € de fonds séquestrés : détenteur, origine, bénéficiaires/répartition et part disponible.
+
+### Kereis — dossier 4836689
+
+- Les deux tableaux d’amortissement complets restent nécessaires pour le prêt n° 0000000005337479 et le PTZ n° 0000000005337478.
+- Les attestations prêteur doivent être complétées par la Caisse d’Épargne.
+- Le RIB du compte de versement sera joint uniquement au dossier Kereis.
+- Les pièces médicales restent séparées du dossier Banque de France et sont destinées au service médical Kereis.
+
+## Rappel de début de session production
+
+**Au début de chaque session, rappeler les dossiers ouverts, demander l’énergie et le temps disponibles, choisir un seul bloc, définir un livrable, puis consigner à la fin ce qui a été fait et la prochaine action unique.**
+
+**Quand Seb donne une tranche horaire, annoncer l’heure de fin du bloc et rappeler explicitement la pause lors du prochain échange à ou après cette échéance. L’assistant ne surveille pas le temps en arrière-plan.**
+
+**Pour les démarches administratives et financières : une demande à la fois, pièces listées avant envoi, brouillon relu, et confirmation explicite avant tout envoi, modification, partage ou suppression.**
