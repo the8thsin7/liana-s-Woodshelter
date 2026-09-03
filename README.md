@@ -2,6 +2,12 @@
 
 ## Suivi production — Finances Seb
 
+### Alertes de début de session finances / production
+
+- Lire les urgences, courriers reçus et échéances avant d’ouvrir un nouveau sujet.
+- Vérifier en priorité les relances arrivant à échéance, les procédures actives Banque de France/Kereis et les dossiers successoraux ou assurantiels à risque de délai.
+- En semaine, à partir de 10 h : choisir un bloc d’au moins une heure, un seul dossier prioritaire et un livrable.
+
 ### Banque de France — dossier de surendettement
 
 - Le 01/09/2026, une réponse a été envoyée à la Banque de France avec les documents Kereis, les offres de prêt et les accords/cautions d’assurance disponibles.
@@ -22,6 +28,13 @@
 - Les attestations prêteur doivent être complétées par la Caisse d’Épargne.
 - Le RIB du compte de versement sera joint uniquement au dossier Kereis.
 - Les pièces médicales restent séparées du dossier Banque de France et sont destinées au service médical Kereis.
+
+### Société Générale — succession Anne-Marie Langevin
+
+- Le 03/09/2026, une réponse a été envoyée au sujet du dossier client 30003 / 5317866.
+- Pièces transmises : pièce d’identité, actes de naissance et de décès nécessaires au lien de filiation, et documents notariaux de la succession d’Anne-Marie Langevin.
+- Demande en attente : informations relatives au(x) contrat(s) d’assurance-vie et état du règlement.
+- Relance à préparer le 13/09/2026 si aucune réponse n’est reçue.
 
 ## Rappel de début de session production
 
