@@ -4,8 +4,9 @@
 
 ### Alertes de début de session finances / production
 
-- Lire les urgences, courriers reçus et échéances avant d’ouvrir un nouveau sujet.
+- Lire le README de suivi, les courriers reçus et les échéances avant d’ouvrir un nouveau sujet.
 - Vérifier en priorité les relances arrivant à échéance, les procédures actives Banque de France/Kereis et les dossiers successoraux ou assurantiels à risque de délai.
+- Vérifier si les courriers recommandés prévus ont bien été envoyés, puis noter leur date de dépôt et leur numéro de suivi si disponible.
 - En semaine, à partir de 10 h : choisir un bloc d’au moins une heure, un seul dossier prioritaire et un livrable.
 
 ### Banque de France — dossier de surendettement
@@ -35,6 +36,19 @@
 - Pièces transmises : pièce d’identité, actes de naissance et de décès nécessaires au lien de filiation, et documents notariaux de la succession d’Anne-Marie Langevin.
 - Demande en attente : informations relatives au(x) contrat(s) d’assurance-vie et état du règlement.
 - Relance à préparer le 13/09/2026 si aucune réponse n’est reçue.
+
+### Crédit Agricole / Predica — contrat PREDISSIME
+
+- Le 05/09/2026, une relance a été envoyée à Predica concernant le contrat PREDISSIME n° 883 11884265703 et les numéros clients 22669892 et 00000533850.
+- Pièces transmises : copies des échanges et pièces disponibles relatives aux démarches précédentes auprès du Crédit Agricole.
+- Demande en attente : rattachement des numéros clients, historique complet, opérations, valeur/situation du placement et documents contractuels.
+- Si aucune réponse n’est reçue : préparer un recommandé le 15/09/2026.
+
+### Notaire — succession Alain Delélée
+
+- Le 05/09/2026, une relance a été envoyée à l’étude de Pont-de-l’Arche concernant la succession d’Alain Delélée.
+- Demande en attente : actes successoraux, décompte détaillé de la part annoncée, justificatifs de versements et explications/documentation relatives aux montants exprimés en francs.
+- Si aucune réponse n’est reçue : préparer un recommandé le 15/09/2026.
 
 ## Rappel de début de session production
 
