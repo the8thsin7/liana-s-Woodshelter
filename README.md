@@ -8,6 +8,8 @@
 - Vérifier en priorité les relances arrivant à échéance, les procédures actives Banque de France/Kereis et les dossiers successoraux ou assurantiels à risque de délai.
 - Vérifier si les courriers recommandés prévus ont bien été envoyés, puis noter leur date de dépôt et leur numéro de suivi si disponible.
 - En semaine, à partir de 10 h : choisir un bloc d’au moins une heure, un seul dossier prioritaire et un livrable.
+- Sauf annonce explicite de « dojo pur cabane », rappeler les urgences financières et juridiques actives à chaque nouvelle session Seb, ainsi qu’à toute reprise dans le même chat après plus de 6 heures depuis la dernière connexion Seb.
+- Maintenir les urgences et veilles actives dans les rappels jusqu’à clôture explicite ou requalification documentée.
 
 ### Banque de France — dossier de surendettement
 
@@ -49,6 +51,15 @@
 - Le 05/09/2026, une relance a été envoyée à l’étude de Pont-de-l’Arche concernant la succession d’Alain Delélée.
 - Demande en attente : actes successoraux, décompte détaillé de la part annoncée, justificatifs de versements et explications/documentation relatives aux montants exprimés en francs.
 - Si aucune réponse n’est reçue : préparer un recommandé le 15/09/2026.
+
+### Toulouse — Résidence Nouvelle Ère / Cogedim / AXA
+
+- Statut : attente de réponse du syndic.
+- Le 06/09/2026, un e-mail de demande de statut a été envoyé aux adresses du syndic disponibles, au sujet de la procédure construction impliquant Cogedim Midi-Pyrénées et AXA France IARD.
+- Base à conserver : acte de revente signé contenant une clause de maintien ou de répartition de la quote-part éventuelle de Sébastien liée à la procédure.
+- Dernière inspection : 06/09/2026. Recherche publique effectuée : aucun jugement publiquement indexé n’a été confirmé comme rattaché à la résidence Nouvelle Ère ; une piste Cogedim / AXA à la cour d’appel de Toulouse reste à confirmer.
+- Veille : toutes les 4 semaines, vérifier les jugements publics avec les termes Cogedim Midi-Pyrénées, AXA France IARD, Nouvelle Ère et Grand Selve.
+- Relance du syndic : le 04/10/2026 si aucune réponse n’est reçue.
 
 ## Rappel de début de session production
 
