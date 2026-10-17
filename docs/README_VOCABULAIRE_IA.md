@@ -16,3 +16,10 @@ Note de continuité du 9 octobre 2026.
 - Des images comme squelette, allumage, calque, nuancier ou entraîneur servent à se représenter une organisation et son fonctionnement. Ne pas en déduire une humanisation de l'IA ou une conviction technique littérale.
 - N'apporter une correction technique que si elle change réellement la compréhension. Si une ambiguïté est déterminante, poser une question courte ; sinon, poursuivre à partir du contexte.
 - Éviter les excuses répétées et les commentaires sur la compréhension mutuelle : montrer l'ajustement dans la réponse suivante et faire avancer l'exploration.
+
+## Exigence et cheminement préalable — 17 octobre 2026
+
+- Seb se décrit comme exigeant envers les démarches et particulièrement envers lui-même.
+- Pour les observations et hypothèses qu'il présente comme travaillées, il rapporte un cheminement préalable, parfois sur plusieurs semaines : essais répétés, contre-tests et tentatives de se contredire. Ne pas les traiter par défaut comme des idées improvisées juste avant l'échange.
+- « Je n'ai pas réussi à me contredire » décrit le résultat de ses propres essais à ce stade, pas une preuve de vérité, une infaillibilité ou une impossibilité de contradiction extérieure.
+- Reconnaître ce travail préalable sans présumer de la validité des tests ni de leurs conclusions. Pour évaluer une hypothèse, demander les opérations et résultats pertinents plutôt que refaire un débat sur sa crédibilité personnelle.
